@@ -1,2 +1,2 @@
-console.log("this is complex js app.");
-fasdfasdfasdfpoijpoijpoajsdfasdf
+Alert("this is complex js app.");
+console.log("this is for texting Github");
